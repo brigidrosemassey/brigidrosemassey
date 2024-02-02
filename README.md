@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brigidrosemassey
-- 👀 I’m interested in social media management
+- 👀 I’m interested in communications.
 - 🌱 I’m currently learning social media management and web design
 - 💞️ I’m looking to collaborate on front end design
 - 📫 How to reach me www.brigidmassey.com
