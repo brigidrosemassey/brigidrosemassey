@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brigidrosemassey
 - 👀 I’m interested in communications.
-- 🌱 I’m currently working for UF.
 - 💞️ I’m looking to collaborate on front end design
 - 📫 How to reach me www.brigidmassey.com
 
